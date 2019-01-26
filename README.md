@@ -26,8 +26,11 @@ C:\Users\Administrator\Desktop>.\PatchesTester.exe
 ![此处输入图片的描述][2]
 
 
+## 致谢
+
+感谢在开发过程中对我项目提出的建议和给予很大帮助的师傅 [nen9mA0][3]
+
 
   [1]: https://picture-1253331270.cos.ap-beijing.myqcloud.com/%E5%AF%BB%E6%89%BE%20exp3.png
   [2]: https://picture-1253331270.cos.ap-beijing.myqcloud.com/%E5%AF%BB%E6%89%BE%20exp4.png
-
-
+  [3]: https://github.com/nen9mA0
