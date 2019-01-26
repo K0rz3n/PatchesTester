@@ -20,6 +20,10 @@ C:\Users\Administrator\Desktop>.\PatchesTester.exe
 
 http://www.k0rz3n.com/2019/01/27/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B8%80%EF%BC%9A%E5%AF%BB%E6%89%BEEXP/
 
+## 相关网站：
+
+https://docs.microsoft.com/zh-cn/windows/desktop/api/wuapi/
+
 ## 运行效果：
 
 ![此处输入图片的描述][1]
