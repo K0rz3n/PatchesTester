@@ -5,13 +5,16 @@
 ## 工具特点：
 
 开发语言 ：C++
+
 开发工具 : VS2017
+
 适用平台 : Windows 2003 及以后
+
 使用条件 ：要求工具运行目录有可写权限
 
 ## 使用方法：
 
-'''C:\Users\Administrator\Desktop>.\PatchesTester.exe'''
+C:\Users\Administrator\Desktop>.\PatchesTester.exe
 
 
 ## 运行效果：
