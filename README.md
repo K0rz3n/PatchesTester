@@ -37,6 +37,10 @@ https://docs.microsoft.com/zh-cn/windows/desktop/api/wuapi/
 
 感谢在开发过程中对我项目提出的建议和给予很大帮助的师傅 [nen9mA0][3]
 
+## TODO 
+
+1.完善在断网情况下的人性化提示
+
 
   [1]: https://picture-1253331270.cos.ap-beijing.myqcloud.com/%E5%AF%BB%E6%89%BE%20exp3.png
   [2]: https://picture-1253331270.cos.ap-beijing.myqcloud.com/%E5%AF%BB%E6%89%BE%20exp4.png
